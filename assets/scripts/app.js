@@ -19,9 +19,6 @@ const Portfolio = function() {
 			}, {
 				text: "Core Java",
 				weight: 9
-			}, {
-				text: "Shreyas",
-				weight: 15
 			}
 		];
 		return words;
