@@ -17,17 +17,11 @@ const Portfolio = function() {
 				text: "programming",
 				weight: 7
 			}, {
-				text: "",
-				weight: 10
-			}, {
 				text: "Core Java",
 				weight: 9
 			}, {
 				text: "Shreyas",
 				weight: 15
-			}, {
-				text: "csgo",
-				weight: 7
 			}
 		];
 		return words;
